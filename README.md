@@ -6,7 +6,7 @@ Here my Instagram clone! Fully responsive though it doesn't have all the functio
 
 ## Getting Started
 
-Well, just visit the website at [https://gabriel19971029.github.io/instagram-signin-page/](https://gabriel19971029.github.io/instagram-signin-page/) and enjoy! 
+Well, just visit the website at [https://gabriel19971029.github.io/Instagram-signIn-page/](https://gabriel19971029.github.io/Instagram-signIn-page/) and enjoy! 
 
 ### You want to own this website?
 
